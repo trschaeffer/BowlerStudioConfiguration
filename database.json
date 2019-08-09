@@ -1,5 +1,12 @@
 {
+  "workspace": {},
   "studio-open-web": {},
+  "studio-open-git": {
+    "none:C:\\Users\\Tobias\\Desktop\\WheelModule.groovy": [
+      "none",
+      "C:\\Users\\Tobias\\Desktop\\WheelModule.groovy"
+    ]
+  },
   "BowlerStudioConfigs": {
     "fontsize": 12.0,
     "skinBranch": "0.25.2",
